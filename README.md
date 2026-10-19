@@ -6,27 +6,20 @@ A machine learning-based Network Intrusion Detection System (NIDS) that classifi
 
 ## Application Preview
 
-### Security Operations Dashboard
-
-![NIDS Dashboard](screenshots/dashboard.png)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ### Threat Scanner
-
-Upload network traffic records for batch classification.
-
 ![Threat Scanner](screenshots/threat-scanner.png)
 
-### Manual Traffic Prediction
-
-Test an individual network flow using configurable traffic indicators.
-
+### Manual Prediction
 ![Manual Prediction](screenshots/manual-prediction.png)
 
 ### Model Performance
-
-Compare four machine learning classifiers using recorded test-set metrics.
-
 ![Model Performance](screenshots/model-performance.png)
+
+### Explainability
+![Explainability](screenshots/explainability.png)
 
 ### Explainable AI
 
