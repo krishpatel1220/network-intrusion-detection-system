@@ -7,25 +7,25 @@ A machine learning-based Network Intrusion Detection System (NIDS) that classifi
 ## Application Preview
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Threat Scanner
-![Threat Scanner](screenshots/threat-scanner.png)
+![Threat Scanner](screenshot/threat-scanner.png)
 
 ### Manual Prediction
-![Manual Prediction](screenshots/manual-prediction.png)
+![Manual Prediction](screenshot/manual-prediction.png)
 
 ### Model Performance
-![Model Performance](screenshots/model-performance.png)
+![Model Performance](screenshot/model-performance.png)
 
 ### Explainability
-![Explainability](screenshots/explainability.png)
+![Explainability](screenshot/explainability.png)
 
 ### Explainable AI
 
 Explore feature importance and understand how traffic features influence model predictions using SHAP.
 
-![SHAP Explainability](screenshots/explainability.png)
+![SHAP Explainability](screenshot/explainability.png)
 
 ## Key Features
 
